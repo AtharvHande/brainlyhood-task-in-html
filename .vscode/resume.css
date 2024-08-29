@@ -1,0 +1,23 @@
+.table tr,th,td {
+    border: 2px solid black;
+    padding: 2px;
+    
+   
+    
+}
+
+.row1{
+    display: flex;
+    gap: 5px;
+
+}
+.box1{
+
+}
+.box2{
+
+}
+.row2{
+    height: 100px;
+    background-color: bisque;
+}

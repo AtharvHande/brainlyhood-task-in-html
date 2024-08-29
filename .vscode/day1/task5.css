@@ -1,0 +1,125 @@
+.row1{
+    height: 100px;
+    background-color: slateblue;
+    display: flex;
+    gap: 30px;
+
+}
+.box1{
+    padding-left: 20px;
+    padding-top: 10px;
+
+}
+.box2{
+    height: 46px;
+    width: 8px;
+    background-color: yellow;
+    margin-top: 22px;
+    margin-left: 68%;
+}
+.box3{
+    padding-top: 10px;
+}
+.row2{
+    height: 30px;
+    background-color: yellow;
+}
+.row3{
+    margin-top: 20px;
+    text-align: center;
+}
+.row4{
+    margin-top: 20px;
+    display: flex;
+    gap: 5px;
+}
+.box4{
+    height: 205px;
+    width: 16.66%;
+    background-color: blueviolet;
+
+
+}
+.box5{
+    height: 205px;
+    width: 16.66%;
+    background-color: blueviolet;
+
+
+}
+.box6{
+    height: 205px;
+    width: 16.66%;
+    background-color: blueviolet;
+
+
+}
+.box7{
+    height: 205px;
+    width: 16.66%;
+    background-color: blueviolet;
+
+
+}
+.box8{
+    height: 205px;
+    width: 16.66%;
+    background-color: blueviolet;
+
+
+}
+.box9{
+    height: 205px;
+    width: 16.66%;
+    background-color: blueviolet;
+
+
+}
+.row5{
+    margin-top: 20px;
+    height: 205px;
+    background-color: blueviolet;
+}
+.row6{
+    margin-top: 20px;
+    display: flex;
+    gap: 10px;
+
+}
+.box10{
+    height: 205px;
+    width: 50%;
+    background-color: blueviolet;
+
+
+}
+.box11{
+    height: 205px;
+    width: 50%;
+    background-color: blueviolet;
+
+}
+.row7{
+    margin-top: 20px;
+    height: 205px;
+    background-color: blueviolet;
+}
+.row8{
+    margin-top: 60px;
+    background-color: yellow;
+    height: 20px;
+}
+.row9{
+    background-color: blueviolet;
+    height: 60px;
+    display: flex;
+    gap: 624px;
+
+}
+.box12{
+
+}
+.box13{
+
+}
+

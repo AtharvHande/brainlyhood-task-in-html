@@ -1,0 +1,182 @@
+.row1{
+    height: 100px;
+   
+    display: flex;
+
+
+}
+.box1 img{
+    height: 44px;
+    width: 129px;
+    padding-left: 56px;
+    padding-top: 20px;
+
+}
+.box2{
+    margin-left: 27%;
+}
+.box2 ul,li{
+    display: flex;
+    gap: 75px;
+    margin-top: 29px;
+   
+
+}
+.row2{
+   
+    
+}
+.row3{
+    
+    margin-left: 57px;
+    display: flex;
+    gap: 50px;
+}
+.box4{
+    font-size: 40px;
+}
+.box5{
+    margin-top: 107px;
+    padding-left: 41px;
+}
+.row3 button:hover{
+    background-color:  darkgrey;
+}
+.box4 button:hover{
+    background-color: darkgray;
+}
+.box3 button:hover{
+    background-color: darkgray;
+}
+.row4{
+    display: flex;
+   
+
+}
+.box6{
+    margin-left: 157px;
+    
+    margin-top: 45px
+
+
+}
+.box7{
+    margin-top: -19px;
+
+}
+.box7 button:hover{
+    background-color: darkgray;
+}
+.row5{
+    display: flex;
+    
+}
+.box8{
+    margin-top: 145px;
+    margin-left: 157px;
+
+}
+.box9 button:hover{
+    background-color: darkgray;
+
+}
+.row6{
+    height: 257px;
+    background-color: rgb(221, 201, 177);
+    margin-top: 66px;
+}
+.row7{
+    display: flex;
+
+}
+.box11{
+    margin-top: 70px;
+    margin-left: 157px;
+
+}
+.box12 button:hover{
+    background-color: darkgray;
+
+}
+.row8{
+    display: flex;
+
+}
+.box13{
+    margin-top: 85px;
+    margin-left: 157px;
+
+}
+.box14 button:hover{
+    background-color: darkgray;
+
+}
+.row9{
+    height: 580px;
+    background-color:rgb(221, 201, 177);
+    margin-top: 40px;
+    display: flex;
+
+}
+.box15{
+    padding-top: 165px;
+    margin-left: 157px;
+}
+.box16 button:hover{
+    background-color: darkgray;
+
+}
+.row10{
+    margin-top: 200px;
+    display: flex;
+
+}
+.box17{
+    margin-left: 157px;
+
+}
+.box18{
+
+    margin-left: 325px;
+}
+.box17 button:hover{
+    background-color: darkgray;
+}
+.box18 button:hover{
+    background-color: darkgray;
+}
+.row11{
+    margin-top: 200px;
+    height: 900px;
+    width: 680px;
+    background-color: rgb(221, 201, 177);
+    
+    
+    
+}
+
+
+
+
+.box19{
+    text-align: center;
+
+}
+.box20{
+
+}
+.box19 button:hover{
+    background-color: darkgray;
+
+}
+.row12{
+    margin-top: 170px;
+    display: flex;
+    gap: 50px;
+}
+.box21{
+
+}
+.box22{
+
+}
